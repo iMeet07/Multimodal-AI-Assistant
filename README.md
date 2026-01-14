@@ -154,7 +154,4 @@ To get started, follow these simple steps:
       ```
       This will open the localhost page `localhost:<YOUR_PORT>`.
 
-## Contact Information 📧
 
-For inquiries, feel free to reach out via email:  
-**Email:** [christian.putzu.job@gmail.com](mailto:christian.putzu.job@gmail.com)
