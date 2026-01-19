@@ -74,7 +74,7 @@ To get started, follow these simple steps:
 1. **Clone the repository**  
    Run the following command to clone the repository:  
    ```bash 
-   git clone https://github.com/chrisputzu/multimodal-ai-assistant.git
+   git clone https://github.com/iMeet07/Multimodal-AI-Assistant.git
    ```
    Then navigate into the project directory:  
    ```bash
