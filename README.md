@@ -65,7 +65,7 @@ Harnessing models via `Langchain` and `ChatOllama`, hosted locally with `Ollama`
    
    Integration with Literal AI enables efficient cloud storage of chat histories, allowing quick access to past interactions.
 
-![alt text](test_files_demo/literalai.png)
+
    
 ## Setup Instructions ⚙️
 
